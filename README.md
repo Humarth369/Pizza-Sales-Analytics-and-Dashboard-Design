@@ -61,5 +61,5 @@ The final dashboard offered clear insights into pizza sales performance, enablin
 - Track best and worst-selling products.
 - Analyze sales contributions by pizza category and size.
 - Make data-driven decisions to optimize menu offerings and operational strategies.
-- ![image](https://github.com/user-attachments/assets/11d59c11-0baa-4ed8-a96b-b7f64efcee52)
+  ![image](https://github.com/user-attachments/assets/11d59c11-0baa-4ed8-a96b-b7f64efcee52)
 
